@@ -1,2 +1,10 @@
 # Ruckus_Middleware_API_To_Server
-Untuk mempermudah Embeded System mengambbil data Controler Ruckus
+
+Membutuhkan Lib :
+  jsonlib
+  requests
+  HTMLParser
+  bs4
+  times
+  
+ 
